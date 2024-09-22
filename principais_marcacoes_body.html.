@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Título Principal</h1>
+<h2>Subtítulo</h2>
+<h3>Subsubtítulo</h3>
+<p>Primeiro parágrafo</p>
+<p>Segundo parágrafo</p>
+<h2>Lista não ordenada</h2>
+<ul>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+</ul>
+<h2>Lista ordenada</h2>
+<ol>
+<li>Primeiro item</li>
+<li>Segundo item</li>
+<li>Terceiro item</li>
+</ol>
+<h2>Links de navegação</h2>
+<p><a href="https://www.google.com">Visite o google</a></p>
+<p><a href="sobre.html">Sobre nós</a></p>
+<p><a href="gustavo.contato@exemplo.com">Envie um e-mail</a></p>
+<p><a href="secao1">Ir para a seção 1</a></p>
+</body>
+</html>
