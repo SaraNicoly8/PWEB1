@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description"
+content="Exemplo de um documento HTML com principais
+marcações para o corpo.">
+<meta name="author" content="Nome do Autor">
+<title>Exemplo Completo de HTML</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+<h1>Título Principal</h1>
+<p>Neste documento iremos explorar as marcações utilizadas em um documento HTML</p>
+<h2>Introdução ao HTML</h2>
+
+<p><b><i>A HTML desempenha um papel crucial na acessibilidade da web. Ele contribui para uma compreensão mais clara do conteúdo pelos motores de busca e facilita a navegação para usuários com necessidades especiais, como leitores de tela.</i></b></p>
+
+
+<!-- Lista não ordenada -->
+<ul>
+<li>Item 1 da lista não ordenada</li>
+<li>Item 2 da lista não ordenada</li>
+<li>Item 3 da lista não ordenada</li>
+</ul>
+
+<!-- Lista ordenada -->
+<ol>
+<li>Primeiro item da lista ordenada</li>
+<li>Segundo item da lista ordenada</li>
+<li>Terceiro item da lista ordenada</li>
+<li>Quarto item da lista ordenada</li>
+</ol>
+
+
+<p>Visite o <a href="https://www.google.com">nosso site</a>
+para mais informações.</p>
+<p>Envie um e-mail para <a href="gustavo:contato@exemplo.com">
+nosso contato</a>.</p>
+<p><a href="#secao1">Ir para a Seção 1</a> nesta mesma
+página.</p>
+
+<!-- Itálico, Negrito, Sublinhado, Ênfase, Importância -->
+<p>Este texto <i>está itálico</i>, <b>negrito</b>,
+<u>sublinhado</u>, <em>com ênfase</em>, e
+<strong>importante</strong>.</p>
+
+<!-- Citação em bloco (Blockquotes) -->
+<blockquote>
+"A Web não⁠ conecta apenas máquinas, ela conecta pessoas."
+</blockquote>
+
+<!-- Sobrescrito e subscrito -->
+<p>A fórmula química da água é H<sub>2</sub>O, e
+E = mc<sup>2</sup> é a famosa equação
+de Einstein.</p>
+
+<!-- Apresentando código-fonte -->
+<pre>
+<code>
+for (let i = 0; i < 10; i++) {
+console.log(i);
+}
+</code>
+</pre>
+
+<!-- Horários e Datas -->
+<p>Este evento ocorrerá em<time datetime="2024-10-14">
+14 de Outubro de 2024</time></p>
+</body>
+</html>
